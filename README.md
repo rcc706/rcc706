@@ -1,9 +1,7 @@
 # <div align="center">:space_invader: Hi, I'm Russell :space_invader:</div>
-&nbsp;
-&nbsp;
-I am currently a student majoring in Computer Science with an emphasis in Computer Security. 
-&nbsp;
-&nbsp;
+
+<div align="center">A student majoring in Computer Science with an emphasis in Computer Security.</div>
+
 ---
 ### Learning:
 - Making my own website with HTML, CSS, and JavaScript
