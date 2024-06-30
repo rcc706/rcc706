@@ -1,13 +1,13 @@
 # <div align="center">:space_invader: Hi, I'm Russell :space_invader:</div>
-
+<br>
+<br>
 <div align="center">A student majoring in Computer Science with an emphasis in Computer Security.</div>
-
----
+<br>
+<br>
 ### Learning:
 - Making my own website with HTML, CSS, and JavaScript
-&nbsp;
-&nbsp;
----
+<br>
+<br>
 ### Languages: 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
