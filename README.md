@@ -15,6 +15,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
 </div>
 
+
+### Stats: 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rcc706)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **rcc706/rcc706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
