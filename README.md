@@ -17,6 +17,7 @@
 
 
 ### Stats: 
+<!-- By default, this card will only show stats from public repos -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rcc706)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
